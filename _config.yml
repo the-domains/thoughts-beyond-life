@@ -1,0 +1,28 @@
+name: 'Thoughts beyond life '
+favicon: null
+layout_spectrum: 0.1956250350922346
+typography_spectrum: 0.1442184904590249
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.17482507461681962
+  lightness: 0.04330746759660542
+  saturation: 0.827214244287461
+  rhythmicContrast: 0.5987063862849027
+purpose: []
